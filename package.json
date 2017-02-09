@@ -1,0 +1,26 @@
+{
+  "name": "@muldis/muldis-d-ref_eng",
+  "version": "0.0.0",
+  "description": "Reference Implementation of Muldis D Over JavaScript",
+  "main": "index-no-not-really.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muldis/Muldis-D-Ref-JavaScript.git"
+  },
+  "author": "Darren Duncan <darren@DarrenDuncan.net>",
+  "contributors": [],
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/muldis/Muldis-D-Ref-JavaScript/issues"
+  },
+  "homepage": "https://github.com/muldis/Muldis-D-Ref-JavaScript#readme",
+  "keywords": [
+    "database",
+    "DBMS",
+    "language"
+  ]
+}
