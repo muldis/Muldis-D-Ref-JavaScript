@@ -1,3 +1,7 @@
+# Mac OS X filesystem metadata files.
+*.DS_Store
+
+
 # Logs
 logs
 *.log
